@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    border: 2px solid rgba(247, 220, 208, 0.884);
+    width: 450px;
+    height: 462px;
+
+}
+
+.containerChild {
+    border: 1px solid rgba(247, 220, 208, 0.884);
+    width: 450px;
+    height: 75px;
+    margin: auto;
+    text-align: center;
+}
