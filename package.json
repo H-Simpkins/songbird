@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "postcss": "^8.4.24",
+    "postcss-modules": "^6.0.0"
+  }
+}
