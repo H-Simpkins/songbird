@@ -1,0 +1,18 @@
+.searchbarContainer {
+    display: flex;
+}
+
+.searchbar {
+    margin: auto;
+    background-color: whitesmoke;
+    border: none;
+    border-top-left-radius: 5cm;
+    border-bottom-left-radius: 5cm;
+}
+
+.button {
+    background-color: whitesmoke;
+    border: none;
+    border-top-right-radius: 5cm;
+    border-bottom-right-radius: 5cm;
+}
