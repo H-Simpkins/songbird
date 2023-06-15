@@ -1,0 +1,8 @@
+span {
+    font-size: 32px;
+    color:rgba(247, 220, 208, 0.884);
+}
+
+.container {
+    display: flex;
+}

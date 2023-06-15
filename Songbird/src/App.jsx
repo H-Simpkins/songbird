@@ -1,6 +1,9 @@
 import Header from './components/header/Header';
 import Searchbar from './components/searchbar/Searchbar';
-import './App.css';
+import About from './components/about/About';
+import Album from './components/album/Album';
+import Track from './components/track/Track';
+import appCSS from './appStyle.module.css';
 
 function App() {
 
@@ -9,6 +12,11 @@ function App() {
     <>
       <Header />
       <Searchbar />
+      <div className={appCSS.container}>
+        <About />
+        <Album />
+      </div>
+      <Track />
     </>
   )
 }
