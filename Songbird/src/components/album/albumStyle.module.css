@@ -2,3 +2,9 @@ h2 {
     font-size: 72px;
     color: rgba(247, 220, 208, 0.884);
 }
+
+.container {
+    border: 1px solid white;
+    width: 50%;
+    height: 100%;
+}
